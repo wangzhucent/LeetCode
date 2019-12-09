@@ -17,3 +17,15 @@ to_string() integer to string
 atoi() character to interger
 atoll() character to long long
 istringstream iss; iss.
+
+# Probelm 10: Regular Expression Matching, Recursion (function stack) -> DFS/DP
+
+# Problem 11: Container with Most Water, Shrink from both sides.
+
+# Problem 12: Integer to Roman, hard coding.
+ I[] = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"}
+ X[] = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XL"}
+ 
+ # Problem 16: 3Sum Closest, pointer from left and right, converge to the middle.
+
+
